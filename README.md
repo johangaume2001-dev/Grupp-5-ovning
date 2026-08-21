@@ -1,23 +1,8 @@
-# **RUBRIK 1**
+# Grupp 5 **Demo**
 
-Hej johan här ursäkta för skapade konflikter!!! ni löser det! 
+## Detta demoprojekt förklarar Gomokus regler, krav m.m
 
-## **RUBRIK 2**
+### Vi testar jobba i git utan att orsaka 2 miljoner konflikter
 
-Hej ilmee här hoppar ni mår bra 
+# ***WOW WOW WOW WOWW*** 
 
-### **RUBRIK 3**
-
- Hej tack Johan
-
-##### **RUBRIK 4** 
-
-Johan försör igen efter lunch!!!!!!!!!!!!
-
-###### **RUBRIK 5** 
-
-ILLE PILLE
-
-##### **RUBRIK** Johan försör igen efter lunch!!!!!!!!!!!
-
-# Dags att fucka upp!
