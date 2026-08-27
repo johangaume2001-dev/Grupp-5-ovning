@@ -1,6 +1,7 @@
 # UC-05-Motståndare-kan-ansluta
 
 | Fält | Värde |
+|---|---|
 | **UC-ID** | 05 |
 | **Aktör** | Motståndare |
 | **Tillhörande krav** | IFK-01 |
