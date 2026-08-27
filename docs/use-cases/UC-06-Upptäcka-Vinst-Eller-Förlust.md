@@ -1,3 +1,5 @@
+# UC-06-Upptäcka-vinst-eller-förlust
+
 | Fält | Värde |
 |---|---|
 |**UC-ID** | 06 |
