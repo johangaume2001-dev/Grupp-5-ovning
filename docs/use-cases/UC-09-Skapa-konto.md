@@ -28,3 +28,12 @@
 #### Postconditions
 - Ett nytt konto finns registrerat i systemet.
 - Användaren kan logga in med de angivna uppgifterna.
+
+#### Alternative flow 1 - E-postadressen är redan registrerad
+- Systemet avvisar registreringen och informerar användaren om att adressen redan är i bruk.
+
+#### Alternative flow 2 - Lösenordet uppfyller inte kraven
+- Systemet avvisar registreringen och visar vilka krav som saknas (t.ex minsta längd, specialtecken).
+
+#### Alternative flow 3 - Obligatoriska fält är tomma
+- Systemet avvisar registreringen och markerar vilka fält som saknas.
