@@ -4,7 +4,7 @@
 |---|---|
 | **UC-ID** | 02 |
 | **Aktör** | Spelare |
-| **Tillhörande krav | FK-02 |
+| **Tillhörande krav** | FK-02 |
 
 ##### Description
 - Spelare ska kunna placera en sten på tom ruta.
@@ -12,15 +12,13 @@
 ##### Precondition
 - Spelare deltar i ett spel
 - Det är spelarens tur
-- Vald ruta är ej blockerad
 
 ##### Trigger
 - Spelare gör val av ruta där sten ska placeras
 
 ##### Mainflow 
-1. Det är spelarens tur att placera sten
-2. Spelare väljer ruta
-3. Stenen placeras på vald ruta
+1. Spelare klickar på ruta
+2. Stenen placeras på vald ruta
 
 ##### Postconditions
 - Stenen placerades korrekt på vald ruta

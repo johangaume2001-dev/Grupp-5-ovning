@@ -10,8 +10,7 @@
 - UC-ID + namn: **UC**-**nr**-bla-bla**.md**
 - Version (*läggs till om vi uppdaterar UC*)
 - Aktör (*Vid behov skriv även till sekundär aktör*)
-- Tillhörande funktionella krav 
-- Tillhörande icke-funktionella krav (*om befintligt*)
+- Tillhörande krav 
 
 #### Sektioner
 - Description - Förklara UC på en mening
