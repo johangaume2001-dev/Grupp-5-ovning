@@ -7,6 +7,7 @@
 | FK-01 | Starta spel | UC-01 |
 | FK-02 | Placera sten | UC-02 |
 | FK-03 | Avsluta parti | UC-03 |
+| FK-04 | Spela ranked | UC-21
 
 ### Konto/sociala krav
 | *FK-ID | Krav | Tillhörande UC* |
@@ -34,7 +35,7 @@
 | IFK-03 | Begränsa antal anrop | UC-13 |
 | IFK-04 | Åtkomstkontroll | UC-14 |
 | IFK-05 | Systemet validerar dragen | UC-15 |
-| IFK-10 | Skyddar rankingberäkning från manipulation | UC-20 |
+| IFK-10 | Skyddar rankingberäkning från manipulation | UC-21 |
 
 ### GDPR krav
 | *IFK-IDK | Krav | Tillhörande UC* |
