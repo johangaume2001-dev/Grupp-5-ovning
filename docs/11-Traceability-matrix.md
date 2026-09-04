@@ -34,6 +34,7 @@
 | IFK-03 | Begränsa antal anrop | UC-13 |
 | IFK-04 | Åtkomstkontroll | UC-14 |
 | IFK-05 | Systemet validerar dragen | UC-15 |
+| IFK-10 | Skyddar rankingberäkning från manipulation | UC-20 |
 
 ### GDPR krav
 | *IFK-IDK | Krav | Tillhörande UC* |

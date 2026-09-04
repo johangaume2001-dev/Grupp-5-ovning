@@ -41,6 +41,7 @@ journey
 
 ### 3. Spelares första ranked match
 - Användarresa för spelare som vill möta skickligare spelare online
+```mermaid
 journey
     title Spelarens första rankade match
     section Söker rankad match
@@ -55,3 +56,4 @@ journey
     section Resultat
       Förlust: 2: Spelare
       Dags för nya tag: 4: Spelare
+```
