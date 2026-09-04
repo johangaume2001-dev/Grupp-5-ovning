@@ -11,4 +11,4 @@
 | FK-07 | Systemet kan spara spelets tillstånd |
 | FK-08 | Ogiltiga drag ska hanteras korrekt |
 | FK-09 | Spelare ska ha möjlighet att registrera konto |
-| 
+| FK-10 | Spelare ska kunna spela en rankad match | 
