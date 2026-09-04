@@ -2,6 +2,7 @@
 
 
 ### 1. Ny spelare
+- Användarresa för första gången användare
 ```mermaid
 journey
     title Gomoku-spelarens resa
@@ -20,6 +21,7 @@ journey
 ```
 
 ### 2. Spelare kör första match mot en vän
+- Användarresa för spelares första online match
 ```mermaid
 journey
     title Gomoku mot en vän
@@ -37,3 +39,19 @@ journey
       Vän vill ha revansch: 5: Spelare
 ```
 
+### 3. Spelares första ranked match
+- Användarresa för spelare som vill möta skickligare spelare online
+journey
+    title Spelarens första rankade match
+    section Söker rankad match
+      Väljer Ranked mode: 3: Spelare
+      Väntar på match: 2: Spelare
+    section Matchning
+      Motståndare hittas: 4: Spelare
+      Matchen laddas in: 4: Spelare
+    section Spelar matchen
+      Spelar första draget: 3: Spelare
+      Motståndare är bra: 2: Spelare
+    section Resultat
+      Förlust: 2: Spelare
+      Dags för nya tag: 4: Spelare
