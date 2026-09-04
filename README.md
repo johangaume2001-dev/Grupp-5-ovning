@@ -1,5 +1,5 @@
 ## Gomoku - Grupp 5 projekt
-#### Detta projekt var en övning på kravhantering och arbete i git med kodnära dokumentation via .md filer + vim text editor.
+#### Detta projekt är en övning på kravhantering och arbete i git med kodnära dokumentation via .md filer + vim text editor.
 #### Det finns därav **ingen kod**.
 
 ### Gomoku - Ett klassiskt brädspel där spelare ska få fem i rad!
